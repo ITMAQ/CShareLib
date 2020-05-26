@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Logger.cpp
+d:\工具代码\src\log\logger.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\工具代码\src\log\logger.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\工具代码\src\log\commanddefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\工具代码\src\log\commanddefine.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“EnumLogLevel”的左侧
+  UseUtils.cpp
+d:\工具代码\src\log\logger.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\工具代码\src\log\commanddefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\工具代码\src\log\commanddefine.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“EnumLogLevel”的左侧
+  正在生成代码...
+d:\工具代码\src\log\logger.cpp(149): warning C4172: 返回局部变量或临时变量的地址: temp
+  UseUtils.vcxproj -> D:\工具代码\UseUtils\UseUtils\Debug\UseUtils.exe
